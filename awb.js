@@ -9,10 +9,10 @@ document.addEventListener("DOMContentLoaded", function () {
             const bins = document.querySelectorAll(".bin img");
 
             const binImages = {
-                "blau": "/images/Papiertonnen.jpg",
-                "braun": "/images/Biotonne.jpg",
-                "grau": "/images/Restmuell.jpg",
-                "gelb": "/images/gelbtonne.jpg"
+                "blau": "images/Papiertonnen.jpg",
+                "braun": "images/Biotonne.jpg",
+                "grau": "images/Restmuell.jpg",
+                "gelb": "images/gelbtonne.jpg"
             };
 
             const todaysEntry = garbageData.find(entry => entry.start === today);
