@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+
+.grid_container {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+}
+
+.bin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 212px;
+    width: 120px;
+}

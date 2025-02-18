@@ -1,0 +1,402 @@
+[
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-01-02"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-01-06"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-01-13"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-01-15"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-01-20"
+    },
+    {
+        "summary": "Restmüll (grau), Weihnachtsbaum AWB Köln",
+        "start": "2025-01-27"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-01-29"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-02-03"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-02-10"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-02-12"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-02-17"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-02-18"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-02-24"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-02-26"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-03-01"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-03-06"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-03-10"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-03-12"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-03-17"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-03-19"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-03-24"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-03-26"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-03-31"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-04-02"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-04-07"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-04-09"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-04-12"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-04-15"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-04-22"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-04-24"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-04-28"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-04-30"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-05-05"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-05-07"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-05-12"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-05-14"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-05-19"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-05-21"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-05-26"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-05-28"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-06-02"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-06-04"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-06-10"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-06-12"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-06-16"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-06-18"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-06-23"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-06-25"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-06-30"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-07-02"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-07-07"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-07-09"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-07-14"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-07-16"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-07-21"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-07-23"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-07-28"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-07-30"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-08-04"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-08-06"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-08-11"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-08-13"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-08-18"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-08-20"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-08-25"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-08-27"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-09-01"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-09-03"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-09-08"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-09-10"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-09-15"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-09-17"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-09-22"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-09-24"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-09-29"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-10-01"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-10-06"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-10-08"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-10-13"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-10-15"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-10-20"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-10-22"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-10-27"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-10-29"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-11-03"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-11-05"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-11-10"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-11-12"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-11-17"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-11-19"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-11-24"
+    },
+    {
+        "summary": "Bio (braun) AWB Köln",
+        "start": "2025-11-26"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-12-01"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-12-03"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-12-08"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-12-15"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-12-17"
+    },
+    {
+        "summary": "Restmüll (grau), Wertstoff (gelb) AWB Köln",
+        "start": "2025-12-20"
+    },
+    {
+        "summary": "Restmüll (grau) AWB Köln",
+        "start": "2025-12-29"
+    },
+    {
+        "summary": "Papier (blau), Bio (braun) AWB Köln",
+        "start": "2025-12-31"
+    }
+]
